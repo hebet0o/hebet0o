@@ -7,12 +7,12 @@ I’m currently working on my thesis, which will be a **Progressive Web Applicat
 
 Some of my skills: 
 
-🖥️ Building responsive websites with modern UI/UX designs
-🌐 Proficient in HTML, CSS, and JavaScript
-💻 Currently learning React.js and Tailwind CSS (with more frameworks in line)
-📊 Familiar with Node.js and PHP for backend development
-🔄 Understanding of Git for version control and collaboration
-🖌️ Proficient in Illustrator, Photoshop, Lightroom, currently getting into Figma
+ - 🖥️ Building responsive websites with modern UI/UX designs
+ - 🌐 Proficient in HTML, CSS, and JavaScript
+ - 💻 Currently learning React.js and Tailwind CSS (with more frameworks in line)
+ - 📊 Familiar with Node.js and PHP for backend development
+ - 🔄 Understanding of Git for version control and collaboration
+ - 🖌️ Proficient in Illustrator, Photoshop, Lightroom, currently getting into Figma
 
 ---
 
